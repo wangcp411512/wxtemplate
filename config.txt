@@ -3,7 +3,7 @@
 "app_id": "wx015503f47eb4acc1",
 "app_secret": "79080174240575578133fc8d512f78b3",
 "template_id": "lO8Y_mMZe69ZAcNgDblTI4VVUwZ6AfLierhYK04CZ4Y",
-"user": ["oJBQg5kB_TQGvGD5pgl8ns7Y1UfY","oJBQg5r224mr-LKFbFPEZCkLbTbU"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oJBQg5kB_TQGvGD5pgl8ns7Y1UfY","oJBQg5r224mr-LKFbFPEZCkLbTbU"], # 接s收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
 # 信息配置
 "weather_key": "d7459db9b9114089a4500be0877b2379",
 "region": "江西省", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
@@ -11,5 +11,10 @@
 "birthday2": {"name": "王哥", "birthday": "2001-05-03"}, # 生日2，同上
 "love_date": "2021-02-19", # 在一起的日期，暂不支持农历
 "note_ch": "在最好的时光，做想做的梦，去想去的地方", # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+<<<<<<< HEAD
 "note_en": "早安小周" # 金句英文
 }
+=======
+"note_en": "傻逼小周" # 金句英文
+}
+>>>>>>> 14663ecaac1708e1c612e46d28c95c3a74577097
