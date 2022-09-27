@@ -3,7 +3,7 @@
 "app_id": "wx015503f47eb4acc1",
 "app_secret": "79080174240575578133fc8d512f78b3",
 "template_id": "lO8Y_mMZe69ZAcNgDblTI4VVUwZ6AfLierhYK04CZ4Y",
-"user": ["oJBQg5kB_TQGvGD5pgl8ns7Y1UfY","oJBQg5r224mr-LKFbFPEZCkLbTbU"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oJBQg5kB_TQGvGD5pgl8ns7Y1UfY","oJBQg5r224mr-LKFbFPEZCkLbTbU"], # 接s收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
 # 信息配置
 "weather_key": "d7459db9b9114089a4500be0877b2379",
 "region": "江西省", # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
